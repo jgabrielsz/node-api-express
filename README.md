@@ -12,8 +12,8 @@ Este é um projeto de exemplo que demonstra o uso básico do framework Express.j
  
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/seu-projeto.git
-   cd seu-projeto
+   git clone https://github.com/jgabrielsz/node-api-express.git
+   cd node-api-express
    ```
  
 2. **Instale as dependências**:
